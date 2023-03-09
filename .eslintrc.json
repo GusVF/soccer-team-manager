@@ -1,9 +1,10 @@
 {
-  "env":{
+  "env": {
     "es2020": true
   },
   "extends": "trybe-backend",
   "rules": {
-    "sonarjs/no-duplicate-strings": ["error", 5]
+    "sonarjs/no-duplicate-string": ["error", 5]
   }
 }
+
